@@ -15,6 +15,6 @@ public class L1 {
         String[] vehicles = {"Car", "Bike", "Bus", "Truck", "Scooter"};
 
         System.out.println("Index of 'Bus': " + search(vehicles, "Bus"));
-        System.out.println("Index of 'Train': " + search(vehicles, "Train")); // Not found
+        System.out.println("Index of 'Train': " + search(vehicles, "Train")); 
     }
 }
